@@ -31,5 +31,4 @@ for topping,cost in toppings:
 label=Label(root,text="50 + 50")
 label.pack()
 
-
 mainloop()
